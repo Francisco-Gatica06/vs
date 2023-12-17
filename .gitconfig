@@ -1,0 +1,8 @@
+# this is git´s per-user configuration file.
+[user]
+    name = Francisco-Gatica06
+    email = f.Gatica06@ufromail.cl
+[init]
+    defaultBranch = main
+[core]
+    editor = code --wait
